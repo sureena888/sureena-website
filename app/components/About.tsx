@@ -43,6 +43,14 @@ export default function About() {
                 </ul>
               </div>
             </div>
+            <div className="mt-6">
+              <h3 className="text-xl font-semibold mb-2">Leadership Experience</h3>
+              <ul className="list-disc list-inside space-y-2">
+                <li>Served as President of the Xi Omicron chapter of the Delta Zeta Sorority,demonstrating strong organizational and interpersonal skills</li>
+                <li>Led initiatives to improve member engagement, retention and community outreach</li>
+                <li>Developed and implemented strategies to enhance the sorority's academic performance</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
