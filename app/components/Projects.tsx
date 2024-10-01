@@ -2,16 +2,16 @@ import Image from 'next/image'
 
 const projects = [
   {
-    title: "AI Chatbot",
-    description: "I built an AI chatbot using TypeScript and the OpenAI API. It uses natural language processing to understand and respond to user queries.",
-    image: "/ai-chatbot.png",
-    link: "https://aichatbot-mocha.vercel.app/"
-  },
-  {
     title: "Cursor Advanced Features Technical Documentation",
     description: "I created a technical documentation website for Cursor's advanced features using Next.js and Tailwind CSS due to lack of resources provided by Cursor.",
     image: "/technical-documentation.png",
     link: "https://cursor-advanced-features-documentation.vercel.app/"
+  },
+  {
+    title: "AI Chatbot",
+    description: "I built an AI chatbot using TypeScript and the OpenAI API. It uses natural language processing to understand and respond to user queries.",
+    image: "/ai-chatbot.png",
+    link: "https://aichatbot-mocha.vercel.app/"
   },
   // Add more projects as needed
 ]
