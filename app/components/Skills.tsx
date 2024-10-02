@@ -7,8 +7,8 @@ export default function Skills() {
               <div>
                 <h3 className="text-xl font-semibold mb-2">Technical Skills</h3>
                 <ul className="list-disc list-inside space-y-2">
+                <li>Basic knowledge of AI concepts and machine learning frameworks</li>
                   <li>Proficient in Python, Java, C++, JavaScript, HTML, and CSS</li>
-                  <li>Basic knowledge of AI concepts and machine learning frameworks</li>
                   <li>Experienced with Agile, Scrum, and DevOps methodologies</li>
                   <li>Skilled in systems design and architecture</li>
                   <li>Knowledgeable in SQL and NoSQL databases</li>
@@ -18,6 +18,7 @@ export default function Skills() {
               <div>
                 <h3 className="text-xl font-semibold mb-2">Additional Competencies</h3>
                 <ul className="list-disc list-inside space-y-2">
+                  <li>Leverage AI-powered tools like Cursor to enhance coding efficiency and productivity</li>
                   <li>Expert in debugging and automated testing</li>
                   <li>Experienced with cloud services (AWS, Azure, Google Cloud)</li>
                   <li>Well-versed in secure coding practices</li>

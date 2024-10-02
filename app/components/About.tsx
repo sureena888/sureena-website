@@ -19,7 +19,7 @@ export default function About() {
           </div>
           <div className="w-full md:w-2/3">
             <p className="text-lg mb-6">
-              Hi, I'm Sureena, a passionate software developer with a diverse skill set and a love for creating innovative solutions. My expertise spans across various aspects of software development, allowing me to bring ideas to life through efficient and scalable code. I excel at integrating AI technologies like machine learning models and natural language processing tools to develop smarter, more intuitive applications. By leveraging these cutting-edge AI capabilities, I enhance both the development process and the end-user experience in my projects.
+            Hi, I'm Sureena, a passionate software developer with a diverse skill set and a love for solving complex problems. Throughout my experience in software development, I’ve come to appreciate the importance of clear, robust technical documentation, a realization that became especially evident while working with the WiX framework to build installers for software products. It was then that I recognized how well-structured documentation can make products more understandable and accessible. Alongside my development skills, I focus on simplifying technology through thoughtful documentation. I'm particularly excited about leveraging AI methodologies and tools to make technology even more accessible to a broader audience. By integrating AI technologies like machine learning and natural language processing into my development process, I aim to improve both the way solutions are built and how they are experienced by users.
             </p>
           </div>
         </div>
