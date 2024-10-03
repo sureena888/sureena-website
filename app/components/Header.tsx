@@ -24,6 +24,7 @@ export default function Header() {
           <ul className="flex flex-col md:flex-row md:space-x-6 p-4 md:p-0">
             <li><Link href="#about" onClick={closeMenu} className="block py-2 text-gray-300 hover:text-white transition-colors">About</Link></li>
             <li><Link href="#projects" onClick={closeMenu} className="block py-2 text-gray-300 hover:text-white transition-colors">Projects</Link></li>
+            <li><Link href="#skills" onClick={closeMenu} className="block py-2 text-gray-300 hover:text-white transition-colors">Skills</Link></li>
             <li><a href="https://www.linkedin.com/in/sureena-hukkoo-b20496144/" target="_blank" rel="noopener noreferrer" onClick={closeMenu} className="block py-2 text-gray-300 hover:text-white transition-colors">LinkedIn</a></li>
             <li><Link href="#contact" onClick={closeMenu} className="block py-2 text-gray-300 hover:text-white transition-colors">Contact</Link></li>
           </ul>
