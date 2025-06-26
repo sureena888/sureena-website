@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: 'Sureena Portfolio',
   description: 'Portfolio of Sureena',
