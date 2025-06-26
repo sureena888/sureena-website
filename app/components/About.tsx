@@ -11,15 +11,14 @@ export default function About() {
               <Image
                 src="/headshot.JPEG"
                 alt="Sureena Hukkoo"
-                layout="fill"
-                objectFit="cover"
-                className="rounded-full shadow-lg"
+                fill
+                className="rounded-full shadow-lg object-cover"
               />
             </div>
           </div>
           <div className="w-full md:w-2/3">
             <p className="text-lg mb-6">
-            Hi, I'm Sureena, a passionate software developer with a diverse skill set and a love for solving complex problems. Throughout my experience in software development, I’ve come to appreciate the importance of clear, robust technical documentation, a realization that became especially evident while working with the WiX framework to build installers for software products. It was then that I recognized how well-structured documentation can make products more understandable and accessible. Alongside my development skills, I focus on simplifying technology through thoughtful documentation. I'm particularly excited about leveraging AI methodologies and tools to make technology even more accessible to a broader audience. By integrating AI technologies like machine learning and natural language processing into my development process, I aim to improve both the way solutions are built and how they are experienced by users.
+            Hi, I'm Sureena, a passionate software developer with expertise in full-stack development and a strong foundation in modern web technologies. I specialize in building scalable applications using React, Node.js, and cloud platforms, with particular experience in creating robust software solutions. My technical background includes working with complex frameworks like Angular, .NET and infrastructure for software deployment and installer development, where I've gained deep insights into system architecture and deployment strategies. I'm proficient in multiple programming languages and frameworks, with a focus on creating efficient, maintainable code that solves real-world problems. I'm particularly excited about emerging technologies, especially AI and machine learning, and how they can be integrated into modern software solutions to create more intelligent and user-friendly applications. My approach combines technical excellence with innovative problem-solving to deliver high-quality software products.
             </p>
           </div>
         </div>
